@@ -91,6 +91,12 @@ As the application server market matures, high performance becomes a stronger cr
 
 <img width="1912" height="1027" alt="Screenshot 2025-11-24 095938" src="https://github.com/user-attachments/assets/fa7ae2ed-b7d7-4964-bc56-4504f3ddc93e" />
 
+<img width="1918" height="1036" alt="image" src="https://github.com/user-attachments/assets/ef2a7220-b86d-4896-9a4d-3c01da09106f" />
+
+<img width="1919" height="1030" alt="Screenshot 2025-11-27 151016" src="https://github.com/user-attachments/assets/79891b55-4dd6-4782-95d9-ba2942e77832" />
+
+
+
 <img width="1918" height="1030" alt="Screenshot 2025-11-24 100003" src="https://github.com/user-attachments/assets/f541157a-ef48-42ba-8602-8075f75b3178" />
 
 <img width="1919" height="1035" alt="Screenshot 2025-11-24 100043" src="https://github.com/user-attachments/assets/be01dee4-6a36-4fa8-8171-073cebd69ee4" />
